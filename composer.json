@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mauricesvay/php-facedetection": "^0.1.0"
+    }
+}
