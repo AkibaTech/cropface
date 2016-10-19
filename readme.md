@@ -9,7 +9,7 @@ Challenge accepted ! Défi - de 20 minutes.
 git clone akibatech/cropface
 cd cropface
 composer install
-php -S localhost 9001
+php -S localhost:9001
 ```
 
 Se rendre sur **http://localhost:9001**, et uploadez une image JPG contenant un ou plusieurs visages.
